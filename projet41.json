@@ -1,0 +1,297 @@
+{
+  "channel_id": 41,
+  "channel_name": "herytstory",
+  "total_analyzed_videos": 50,
+  "master_sets": [
+    {
+      "category": "Rue / Extérieur résidentiel & urbain",
+      "occurrences": 40,
+      "percentage": 30.5,
+      "examples": [
+        "Avenue urbaine de course à pied",
+        "Habitacle de la berline classique rouge",
+        "Chapelle de cérémonie de mariage",
+        "Jardin et façade extérieure",
+        "Toit-terrasse praticable et corniche d'immeuble"
+      ],
+      "sample_description": "Espace intérieur contemporain baigné de lumière naturelle grâce à d'immenses baies vitrées donnant sur une allée résidentielle. Le lieu est décoré de piliers cylindriques habillés de papier peint à motifs floraux beiges, de luminaires suspendus circulaires et entrelacés au plafond, de panneaux muraux en bois clair aux formes géométriques, d'un comptoir de bar au fond avec tabourets hauts, de moquette à motifs géométriques et de tables rectangulaires blanches accompagnées de fauteuils de table couleur bordeaux à structure en bois clair."
+    },
+    {
+      "category": "Autre décor spécifique",
+      "occurrences": 27,
+      "percentage": 20.6,
+      "examples": [
+        "Bureau administratif de réunion",
+        "Embrasure de porte et palier de couloir",
+        "Couloir des Sanitaires / Issue de Secours",
+        "Poste de travail de bureau",
+        "Comptoir de service et zone de préparation du diner"
+      ],
+      "sample_description": "Couloir de service carrelé de marbre veiné sombre et boiseries murales beiges, équipé d'un boîtier d'alarme incendie mural rouge vif Simplex avec clenche blanche basculante."
+    },
+    {
+      "category": "Chambre / Espace intime",
+      "occurrences": 16,
+      "percentage": 12.2,
+      "examples": [
+        "Chambre et espace bureau de télétravail",
+        "Chambre d'hôpital Chantelle Memorial",
+        "Chambre à coucher et accès à l'issue de secours",
+        "Chambre d'amis sous combles",
+        "Chambre résidentielle contemporaine"
+      ],
+      "sample_description": "Chambre de soins médicaux aux murs carrelés de vert émeraude, équipée d'un lit d'hôpital à draps lavande/bleu, d'écrans de contrôle des constantes et de matériel clinique."
+    },
+    {
+      "category": "Salon / Cuisine / Appartement familial",
+      "occurrences": 16,
+      "percentage": 12.2,
+      "examples": [
+        "Salon et espace repas de l'appartement des colocataires",
+        "Salon pavillonnaire contemporain",
+        "Bureau / Appartement de la protagoniste",
+        "Salle à manger et cuisine familiale",
+        "Salon et vestibule d'entrée de la maison"
+      ],
+      "sample_description": "Intérieur résidentiel moderne et épuré, éclairé par de grandes fenêtres voilées de rideaux blancs translucides et des spots encastrés au plafond. La pièce comprend une table de repas à plateau en verre et du mobilier de cuisine aux surfaces lisses et tons clairs contemporains."
+    },
+    {
+      "category": "Lycée / École (Classe, Couloirs, Casiers)",
+      "occurrences": 15,
+      "percentage": 11.5,
+      "examples": [
+        "Salle de classe du lycée",
+        "Bureau administratif",
+        "Couloir de l'établissement",
+        "Ligne de départ et piste du Thunder Valley Dragway",
+        "Comptoir de service et salle de réfectoire scolaire"
+      ],
+      "sample_description": "Esplanade extérieure pavée de dalles rougeâtres et ocres, meublée de tables de pique-nique en lattes de bois clair montées sur armatures métalliques noires. L'espace est entouré de bâtiments scolaires modernes à deux étages peints en jaune vif et blanc, agrémenté de jeunes arbres feuillus et d'une clôture grillagée en arrière-plan près d'un bus scolaire jaune garé."
+    },
+    {
+      "category": "Lieux publics / Commerces / Réceptions",
+      "occurrences": 7,
+      "percentage": 5.3,
+      "examples": [
+        "Espace de réception nuptiale",
+        "Esplanade du chalet d'accueil et zone des luges",
+        "Auditorium de gala du festival de film",
+        "Salle de compétition officielle et rangée de tables d'assemblage",
+        "Salle de réception du mariage"
+      ],
+      "sample_description": "Grande salle de cérémonie sombre et feutrée avec rangées de sièges noirs, scène surélevée équipée d'écrans LED géants diffusant les scènes d'action, pupitre d'orateur et éclairages d'ambiance de projecteurs."
+    },
+    {
+      "category": "Hôpital / Soins / Ambulance",
+      "occurrences": 4,
+      "percentage": 3.1,
+      "examples": [
+        "Box de soins et fauteuil de perfusion hospitalier",
+        "Cabinet de consultation médicale",
+        "Comptoir et salle des ventes du prêt sur gage",
+        "Compartiment intérieur de l'ambulance"
+      ],
+      "sample_description": "Habitacle arrière médicalisé d'un véhicule de secours d'urgence, doté d'une civière centrale sur rails de sol, de parois blanches fonctionnelles avec panneaux de commande, supports de flacons de perfusion, compartiments de rangement gris et banquette latérale d'accompagnement."
+    },
+    {
+      "category": "Véhicule / Habitacle",
+      "occurrences": 3,
+      "percentage": 2.3,
+      "examples": [
+        "Habitacle de véhicule urbain",
+        "Habitacle de pilotage de la Boss 302",
+        "Habitacle de la berline"
+      ],
+      "sample_description": "Intérieur d'un véhicule contemporain avec sièges en similicuir beige à surpiqûres en losange, toit vitré ouvrant, rétroviseur intérieur et planche de bord sombre, laissant apercevoir par les fenêtres le trafic routier urbain par une météo ensoleillée."
+    },
+    {
+      "category": "Commissariat / Prison / Justice",
+      "occurrences": 3,
+      "percentage": 2.3,
+      "examples": [
+        "Cellule d'isolement pénitentiaire",
+        "Bureau d'interrogatoire du commissariat de police",
+        "Bureau d'accueil du commissariat de police"
+      ],
+      "sample_description": "Espace administratif épuré éclairé par une lumière diffuse zénithale chaude, composé de murs unis couleur sable, d'un cadre mural rectangulaire sobre et d'un ensemble de fauteuils et canapés contemporains modulaires revêtus de tissu gris anthracite disposés en vis-à-vis."
+    }
+  ],
+  "protagonists_sample": [
+    {
+      "name": "Narratrice",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Visible dès le début, assise à gauche de la table face à Chandler puis debout à gauche en extérieur. Jeune adulte à la silhouette élancée et aux traits parsemés de taches de rousseur. Hétérochromie nette avec l'œil droit bleu clair et l'œil gauche vert vif. Chevelure volumineuse roux cuivré aux mèches jaune-blond contrastées, coiffée en un chignon haut tressé avec des mèches ondulées tombant librement autour du visage. Tenue composée d'un t-shirt en coton blanc cassé à manches courtes avec une inscription 'her' orange et verte sur la poitrine gauche, d'un pantalon de jogging fluide vert émeraude orné d'une double bande jaune latérale, et de baskets plates blanches simples.",
+      "proposed_adaptation": "Coupe shaggy lob mi-longue effilée aux ondulations souples roux cuivré naturel avec reflets noisette discrets, conservant son hétérochromie caractéristique (œil droit bleu glacier, œil gauche vert émeraude). Tenue urbaine moderne composée d'une surchemise ouverte en velours côtelé vert sauge sur un t-shirt en jersey de coton crème à col rond, d'un pantalon cargo droit en toile ripstop olive à poches discrètes, de sneakers rétro en cuir blanc et semelle gomme, avec pour accessoire un sac bandoulière compact en cuir grainé caramel porté en travers du buste.",
+      "video_id": "7685825400659774751"
+    },
+    {
+      "name": "Chandler",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Assis à droite de la table face à la narratrice à l'intérieur du restaurant, puis debout à droite en extérieur. Homme adulte à la constitution moyenne et athlétique. Cheveux bruns ondulés mi-longs coiffés avec du mouvement vers l'arrière et les côtés. Barbe complète et fournie taillée court aux nuances brun-châtain et poivre et sel, assortie d'une moustache dense. Yeux noisette foncés sous des sourcils épais. Vêtu d'un t-shirt basique blanc uni à col ras-du-cou et manches courtes, d'un pantalon en jean denim bleu moyen à coupe droite classique et d'une ceinture foncée simple.",
+      "proposed_adaptation": "Coupe courte texturée sur le dessus avec dégradé propre aux tempes châtain foncé, barbe de trois jours dense et soigneusement détourée, yeux noisette chauds. Tenue contemporaine composée d'une veste de travail en sergé de coton épais bleu marine sur un t-shirt ras-du-cou gris anthracite chiné, d'un jean brut denim japonais coupe droite ajustée, de bottines Chelsea en suède tabac, avec pour accessoire une montre de terrain en acier brossé avec bracelet en nylon vert forêt.",
+      "video_id": "7685825400659774751"
+    },
+    {
+      "name": "Cascadeuse (Protagoniste)",
+      "gender": "female",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin with freckles",
+      "description": "Personnage situé au premier plan puis au centre de la scène. Cheveux orange doré intense coiffés en un chignon haut tressé avec des mèches ondulées tombant sur les côtés et une frange effilée. Yeux hétérochromes très distincts (œil droit bleu ciel, œil gauche vert pomme vif). Teint clair parsemé de taches de rousseur prononcées sur le nez et les pommettes. Silhouette athlétique féminine. Elle porte un t-shirt ajusté blanc à manches courtes orné d'un logo discret bicolore 'her' sur la poitrine gauche, un pantalon de survêtement de sport vert émeraude avec deux bandes latérales jaunes, et des baskets de sport jaunes. Plus tard dans la vidéo, elle apparaît enveloppée d'un bandage médical intégral blanc / plâtre corporel, assise dans un fauteuil roulant.",
+      "proposed_adaptation": "Femme d'environ 20-25 ans d'origine caucasienne au teint clair et aux taches de rousseur marquées. Cheveux auburn cuivré stylisés Unreal Engine 5 avec tresses de sport latérales plaquées rejoignant un chignon haut moderne et mèches libres texturées. Yeux hétérochromes (un bleu glacier, un vert émeraude). Tenue urbaine contemporaine crédible : t-shirt en coton technique blanc cassé à col rond avec coutures apparentes renforcées de cascadeur, pantalon de jogging cargo ajusté vert pin à bandes techniques jaune moutarde et chevilles resserrées, baskets de running urbain stylisées. Maintien impératif des éléments scéniques clés : plâtre médical / bandages fonctionnels de contention blancs et fauteuil roulant urbain moderne en aluminium brossé lors des séquences post-chute.",
+      "video_id": "7684622711200501022"
+    },
+    {
+      "name": "Protagoniste rousse",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Positionnée au centre de la scène, puis à droite lors des interactions. Morphologie féminine élancée et athlétique. Cheveux mi-longs dégradés orange vif, corail et blond clair, relevés en un chignon tressé haut et volumineux avec deux longues mèches libres encadrant le visage. Yeux noisette/vert clair. Tenue : t-shirt blanc ajusté à manches courtes orné d'un logo typographique orange et vert sur la poitrine gauche, pantalon de jogging vert vif à taille élastique avec bande latérale jaune et blanche, et baskets basses en toile jaune pastel à semelles blanches.",
+      "proposed_adaptation": "Cheveux mi-longs roux cuivré naturel attachés en chignon défait retenu par un élastique noir avec mèches rebelles, yeux noisette foncé. Tenue : sweat à capuche zippé en molleton gris chiné légèrement élimé porté ouvert sur un débardeur blanc en coton côtelé, pantalon de survêtement en nylon vert sapin foncé avec passepoil blanc cassé terne, et baskets de running rétro blanches en cuir synthétique vieilli avec semelle grise. Accessoire : cordon porte-clés noir en sangle textile noué autour du poignet droit.",
+      "video_id": "7671940813290474782"
+    },
+    {
+      "name": "La Mariée (Protagoniste)",
+      "gender": "female",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin with light freckles",
+      "description": "Apparaît au centre. Silhouette féminine élancée aux épaules athlétiques. Cheveux blond vénitien et roux flamboyants tressés en un chignon haut complexe avec quelques mèches encadrant le visage. Hétérochromie marquée : œil droit bleu vif, œil gauche vert émeraude. Taches de rousseur sur le nez et les joues. Porte une robe de cérémonie verte vive à épaules dénudées avec manches bouffantes plissées, corsage orné de fronces vert foncé et nœuds décoratifs jaune canari, et une volumineuse jupe à crinoline verte festonnée de petits nœuds jaunes.",
+      "proposed_adaptation": "Femme d'apparence Caucasian, teint clair aux légères taches de rousseur naturelles (early 20s). Yeux hétérochromes (un œil bleu cobalt, un œil vert émeraude). Coiffure moderne avec carré dégradé texturé mi-long blond cuivré aux pointes rousses, relevé partiellement par une pince métallique mate. Robe de cocktail contemporaine asymétrique vert émeraude foncé en tissu sergé haut de gamme, cintrée à la taille avec une ceinture fine en cuir beige moutarde, associée à un petit bracelet jonc minimaliste en argent au poignet et des escarpins modernes à talons carrés.",
+      "video_id": "7671320050699226398"
+    },
+    {
+      "name": "Jeune fille rousse",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Adolescente à la silhouette mince et élancée. Coiffure : cheveux mi-longs volumineux orange vif / roux flamboyant, attachés en chignon haut natté sur le dessus de la tête avec plusieurs mèches souples encadrant le visage et une frange effilée. Yeux : hétérochromie prononcée avec œil droit bleu azur et œil gauche vert émeraude, pommettes parsemées de légères taches de rousseur. Tenue : T-shirt blanc ajusté à manches courtes avec petit écusson vert et orange sur le torse gauche, pantalon de jogging vert prairie à taille élastique orné de bandes latérales blanche et jaune, et baskets basses blanches. Positions relatives : assise seule au centre d'une table de pique-nique au début (0.0s) ; assise à gauche de la table face à sa mère située sur la droite dans la cuisine (7.0s) ; assise sur le banc à gauche et au premier plan tandis que Nelson se tient debout au centre-droit face à elle dans la cour (14.0s - 46.0s) ; debout sur la droite au bras de Nelson situé sur la gauche dans la scène de mariage finale (48.0s).",
+      "proposed_adaptation": "Nouvelle coiffure : mi-longs roux auburn cuivré naturel, attachés en queue-de-cheval basse désordonnée avec mèches rebelles retenues par un élastique noir simple. Yeux : hétérochromie conservée mais adoucie, œil droit bleu acier et œil gauche vert noisette. Accessoire : montre à affichage numérique Casio noire au poignet gauche et sac à dos en toile nylon bleu marine délavé posé à ses côtés. Tenue : veste en jean bleu clair délavé à col franc portée sur un t-shirt en jersey de coton épais blanc cassé patiné, pantalon de survêtement droit en molleton gris chiné avec liseré sombre usé, et baskets en toile montantes noires à semelle en gomme vulcanisée crasseuse.",
+      "video_id": "7670199170581433631"
+    },
+    {
+      "name": "Jeune femme rousse (Protagoniste)",
+      "gender": "female",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin tone with freckles",
+      "description": "Jeune femme à la morphologie athlétique et élancée. Teint très clair constellé de taches de rousseur sur le nez et les pommettes. Yeux hétérochromes distinctifs (œil droit bleu ciel, œil gauche vert pomme lumineux). Chevelure rousse/orange vif avec mèches jaunes pastel, tressée en un chignon haut complexe agrémenté de mèches libres encadrant le visage. Elle porte un t-shirt ras-du-cou blanc ajusté orné d'un logo discret vert et orange 'her' sur la poitrine, ainsi qu'un bas de jogging vert franc avec une bande latérale jaune. Elle tient un flacon de prescription médicale cylindrique blanc avec bouchon vert pâle, puis une carte bancaire bleue.",
+      "proposed_adaptation": "Femme d'environ 20-22 ans d'origine caucasienne au teint clair avec de fines taches de rousseur. Style GTA/UE5 : chevelure auburn cuivrée naturelle ramenée en chignon tressé urbain désordonné (messy braided bun) avec mèches tombantes. Elle conserve son hétérochromie marquante (un œil bleu profond, un œil vert émeraude). Tenue urbaine modernisée : t-shirt graphique blanc cassé en jersey épais avec motif streetwear discret, pantalon de survêtement rétro vert forêt avec bande latérale jaune moutarde texturée, baskets de running urbaines. Accessoire fonctionnel conservé : flacon de pilules médicales blanc à bouchon sécurisé qu'elle serre entre ses doigts, et carte de paiement bancaire bleue mate.",
+      "video_id": "7669887273659305246"
+    },
+    {
+      "name": "La Mariée",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Coiffure : cheveux mi-longs orange vif / roux cuivré, rassemblés en un chignon tressé à l'arrière avec deux mèches ondulées tombant sur les tempes et une frange effilée sur le front. Yeux : bleu clair, soulignés par des cils marqués et des sourcils bruns fournis. Morphologie : jeune adulte à la silhouette féminine élancée et longiligne. Tenue : robe de mariée blanche asymétrique laissant l'épaule droite découverte, bustier orné d'une rangée diagonale de pétales sculptés en tissu blanc et de petites roses rouges en relief le long de l'encolure, jupe fluide et évasée en satin blanc descendant jusqu'aux chevilles. Positions relatives : apparaît d'abord seule au centre (0.0s), vue de dos face à l'autel (3.0s), puis positionnée à droite du cadre face à sa mère et son époux (8.0s - 16.0s), de dos/trois-quarts à droite dans la salle florale (17.5s - 24.0s), et debout à droite dans la chambre faisant face à son époux (34.0s - 42.0s).",
+      "proposed_adaptation": "Coiffure : cheveux mi-longs auburn cuivré naturel coiffés en un chignon urbain lâche avec quelques mèches ondulées texturées libres autour des oreilles. Yeux : noisette clair avec un regard franc. Accessoire : un pendentif fin en argent vieilli avec médaille gravée et un bracelet rigide en acier brossé au poignet gauche. Tenue : robe longue urbaine épurée en crêpe de soie ivoire mat à fines bretelles, coupe droite contemporaine et fluide, accompagnée d'un boléro ajusté en cuir souple noir vieilli à col droit, et d'escarpins classiques en cuir noir mat.",
+      "video_id": "7667270881189580063"
+    },
+    {
+      "name": "Sarah Jones",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Assise d'abord au bureau au premier plan à droite (le jeune homme se tenant debout à sa gauche), puis au centre en salle d'examen, au volant, dans le lit d'hôpital, et enfin debout au centre de la pièce face caméra. Coiffure : longue chevelure volumineuse blond vénitien orangé / châtain cuivré aux pointes teintées jaune fluo, attachée en un volumineux chignon tressé haut sur le sommet du crâne, avec des tresses latérales et des mèches ondulées libres encadrant le visage. Yeux : regard hétérochrome frappant, avec l'œil droit bleu azur étincelant et l'œil gauche vert émeraude vif. Morphologie : jeune femme à la silhouette élancée et athlétique, visage ovale aux traits fins, peau claire parsemée de discrètes taches de rousseur sur le nez et les joues. Tenue canonique : t-shirt moulant gris chiné à col rond et manches courtes, arborant un logo sérigraphié bicolore orange et vert 'her' sur le côté gauche de la poitrine ; pantalon de survêtement de sport vert franc à taille élastique avec une double bande latérale jaune et orange le long des jambes ; baskets de sport basses jaune vif à semelles blanches plates en caoutchouc.",
+      "proposed_adaptation": "Nouvelle coiffure : chignon haut texturé et décoiffé façon poly-hair d'époque GTA IV, couleur châtain cuivré naturel avec de discrètes mèches blondes sablées. Yeux hétérochromes conservés dans des nuances plus ternes et crédibles (bleu acier délavé et vert olive sombre). Accessoire : sac besace en toile de coton kaki usée porté en bandoulière avec boucle métallique ternie, et montre digitale sportive à boîtier en résine noire au poignet gauche. Nouvelle tenue : sweat à capuche zippé en molleton gris anthracite épais légèrement râpé sur les bordures, porté entrouvert sur un t-shirt en jersey de coton blanc cassé vieilli ; jean droit traditionnel en denim brut bleu délavé aux genoux avec coutures contrastées beiges ; baskets de skate en suède vert bouteille avec semelle marron en gomme vulcanisée.",
+      "video_id": "7667005685422378271"
+    },
+    {
+      "name": "Narratrice / Amie aux yeux vairons",
+      "gender": "female",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin with prominent freckles",
+      "description": "Jeune femme caucasienne à la silhouette fine et athlétique, peau claire parsemée de nombreuses taches de rousseur visibles sur l'arête du nez et les joues. Hétérochromie prononcée : iris droit bleu azur et iris gauche vert émeraude. Cheveux roux cuivré éclatants, mi-longs, coiffés en un chignon tressé volumineux à l'arrière avec mèches ondulées et frange effilée encadrant le visage. Tenue 1 : t-shirt blanc ajusté en coton avec logo bicolore 'her' brodé sur la poitrine gauche, pantalon de jogging de sport vert émeraude à double bande latérale jaune et blanche, et baskets basses jaunes à semelle blanche. Tenue 2 : t-shirt ajusté rose framboise avec le même logo 'her', même pantalon de survêtement vert à bandes jaunes et baskets jaunes. Porte un vase transparent rempli d'un bouquet champêtre de fleurs sauvages multicolores et manipule un smartphone fin gris argenté.",
+      "proposed_adaptation": "Stylisation AAA Unreal Engine 5 contemporaine : jeune femme caucasienne d'environ 20-22 ans à la carnation claire et saine avec micropores et taches de rousseur naturelles finement intégrées. Conservation obligatoire de l'hétérochromie avec un œil droit bleu saphir et un œil gauche vert émeraude. Chevelure rousse cuivrée naturelle rendue brins par brins (Groom), attachée en un chignon haut déstructuré moderne maintenu par des tresses plaquées latérales et de fines mèches texturées autour des tempes. Tenue urbaine : t-shirt décontracté en jersey de coton épais rose framboise délavé avec logo sérigraphié net, pantalon de survêtement technique vert forêt en nylon froissé avec bandes passepoilées jaune moutarde sur les flancs extérieurs, et sneakers rétro urbaines en daim jaune ocre et semelle gomme vulcanisée. Accessoires fonctionnels préservés : smartphone moderne au châssis aluminium brossé et vase en céramique texturée contenant un bouquet frais de marguerites et fleurs des champs.",
+      "video_id": "7662289809448226079"
+    }
+  ],
+  "secondary_archetypes": [
+    [
+      "La Mère",
+      2
+    ],
+    [
+      "La mère",
+      2
+    ],
+    [
+      "Officier de police",
+      2
+    ],
+    [
+      "Le frère",
+      2
+    ],
+    [
+      "Le serveur",
+      1
+    ],
+    [
+      "Le propriétaire du restaurant",
+      1
+    ],
+    [
+      "Figurants",
+      1
+    ],
+    [
+      "Actrice / Doublée (Antagoniste)",
+      1
+    ],
+    [
+      "Chirurgien / Soignant",
+      1
+    ],
+    [
+      "Présentatrice de la cérémonie",
+      1
+    ]
+  ],
+  "dominant_camera_moods": [
+    [
+      "Plans cinématiques immersifs à focale moyenne (35mm à 50mm) avec profondeur de champ modérée simulant une mise en scène narrative en jeu",
+      1
+    ],
+    [
+      "Cadrage cinématique à la troisième personne façon cutscene de jeu d'action AAA, plans rapprochés expressifs à champ moyen et légères contre-plongées dramatiques",
+      1
+    ],
+    [
+      "Caméra portée à l'épaule semi-dynamique avec champ de vision moyen, légère désaturation chromatique et ambiance urbaine terre-à-terre.",
+      1
+    ],
+    [
+      "Cadrage cinématique immersif à l'épaule façon cinématique de jeu vidéo d'action urbaine, profondeur de champ focale moyenne, netteté sur les détails de vêtements et textures faciales.",
+      1
+    ],
+    [
+      "Prises de vue cinématiques à mi-distance, légère dynamique de caméra à l'épaule et profondeur de champ cinématique estompant doucement l'arrière-plan urbain.",
+      1
+    ]
+  ],
+  "dominant_lightings": [
+    [
+      "Lumière naturelle diurne douce avec occlusion ambiante marquée en intérieur et lumière dorée rasante en extérieur cinématique",
+      1
+    ],
+    [
+      "Éclairage cinématique urbain dynamique, lumière naturelle du jour avec occlusion ambiante douce sur le toit, contrastes d'intérieur hospitalier plus froids et éclairage de scène de cérémonie avec néons et reflets de projecteurs",
+      1
+    ],
+    [
+      "Éclairage aux néons fluorescents de supermarché urbain avec reflets spéculaires chauds et ombres portées marquées typiques du moteur de fin des années 2000.",
+      1
+    ],
+    [
+      "Éclairage cinématique UE5 Lumen en intérieur haut de gamme, spots doux zénithaux, reflets spéculaires contrôlés et touches de contre-jour chaudes.",
+      1
+    ],
+    [
+      "Éclairage naturel urbain contrasté avec teintes légèrement sépia et voilées typiques de la fin des années 2000, ombrages directionnels nets et occlusion ambiante marquée sous les rebords de vêtements.",
+      1
+    ]
+  ]
+}

@@ -145,7 +145,7 @@ class Quadtree {
   }
 }
 
-function buildCityBlocks(scene, landmarkColliders = []) {
+function buildCityBlocks(scene, landmarkColliders = [], bounds = null) {
   const group = new THREE.Group();
   group.name = 'ManhattanCityBlocks';
   const colliders = [];
@@ -250,7 +250,7 @@ function buildCityBlocks(scene, landmarkColliders = []) {
     return { height: Infinity, x: t.x, z: t.z, x0: t.x - t.w / 2 - 3, x1: t.x + t.w / 2 + 3, z0: t.z - t.d / 2 - 3, z1: t.z + t.d / 2 + 3, ...(o || {}) };
   }).filter(Boolean);
   // Keep the authored landmark models; the survey supplies the surrounding buildings.
-  const surveyedBuildings = REAL_BUILDINGS.filter((b) => !LANDMARK_RESERVE.some((h) =>
+  const surveyedBuildings = REAL_BUILDINGS.filter((b) => (!bounds || (b.maxX > bounds.minX && b.minX < bounds.maxX && b.maxZ > bounds.minZ && b.minZ < bounds.maxZ)) && !LANDMARK_RESERVE.some((h) =>
     b.polygons.some((p) => polygonContains({ outer: p.outer, holes: [] }, h.x, h.z)))
     && !landmarkColliders.some((c) => b.minX < c.maxX && b.maxX > c.minX && b.minZ < c.maxZ && b.maxZ > c.minZ
       && b.polygons.some((p) => polygonBoxOverlaps(p, (c.minX + c.maxX) / 2, (c.minZ + c.maxZ) / 2,

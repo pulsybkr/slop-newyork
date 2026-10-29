@@ -1,0 +1,50 @@
+- generic [active] [ref=f8e1]:
+  - status [ref=f8e2]:
+    - generic [ref=f8e3]:
+      - generic [aria-hidden] [ref=f8e4]: NY
+      - generic [ref=f8e5]: Slop New York
+      - generic [ref=f8e8]: Loading city code and data...
+  - main "3D Interactive Slop New York Viewport" [ref=f8e9]
+  - banner:
+    - generic [ref=f8e10]:
+      - generic [aria-hidden] [ref=f8e11]: NY
+      - generic [ref=f8e12]:
+        - generic [ref=f8e13]:
+          - heading "Slop New York" [level=1] [ref=f8e14]
+          - link "Slop New York on GitHub (opens in a new tab)" [ref=f8e15] [cursor=pointer]:
+            - /url: https://github.com/mrdoob/slop-newyork/
+            - text: GitHub ↗
+        - generic [ref=f8e16]: three.js · WebGPU · TSL · 60 fps
+  - generic [ref=f8e17]:
+    - group "Atmosphere & time of day" [ref=f8e18]:
+      - button "Golden Hour" [ref=f8e19] [cursor=pointer]
+      - button "Midday" [ref=f8e23] [cursor=pointer]
+      - button "Blue Hour" [ref=f8e26] [cursor=pointer]
+      - button "Night" [ref=f8e29] [cursor=pointer]
+    - button "Teleport the active player" [ref=f8e33] [cursor=pointer]
+    - button "Full New York City street map [M]" [ref=f8e38] [cursor=pointer]
+    - button "Mute sound" [pressed] [ref=f8e42] [cursor=pointer]
+    - button "Hide HUD" [ref=f8e45] [cursor=pointer]
+  - complementary "Live NYC Street Radar Minimap" [ref=f8e48] [cursor=pointer]:
+    - generic [aria-hidden]: "N"
+    - generic [ref=f8e50]: M
+  - contentinfo:
+    - navigation "Third-Person Navigation Mode" [ref=f8e51]:
+      - button "Person [1]" [ref=f8e52] [cursor=pointer]
+      - button "Car · Yellow Cab [2]" [ref=f8e55] [cursor=pointer]
+      - button "Cyclist [3]" [ref=f8e58] [cursor=pointer]
+      - button "Helicopter [4]" [ref=f8e61] [cursor=pointer]
+  - region "Vehicle telemetry and camera" [ref=f8e64]:
+    - generic [ref=f8e65]:
+      - generic [ref=f8e66]:
+        - generic [ref=f8e67]: NYC Yellow Taxi
+        - generic [ref=f8e68]: Alt 0 ft
+      - generic [ref=f8e69]:
+        - generic [ref=f8e70]: "0"
+        - generic [ref=f8e71]: mph
+    - generic [ref=f8e73]:
+      - button "Previous camera" [ref=f8e74] [cursor=pointer]
+      - button "3rd-Person Chase V" [ref=f8e77] [cursor=pointer]:
+        - generic [ref=f8e80]: 3rd-Person Chase
+        - generic [ref=f8e81]: V
+      - button "Next camera" [ref=f8e82] [cursor=pointer]

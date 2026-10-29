@@ -166,7 +166,10 @@ def module(count, asset, digest):
 // NYC OTI Building Footprints: {SOURCE}
 // Snapshot SHA-256: {digest}
 // {count:,} buildings. Coordinates: 0.5 m; roof heights: 1 m; construction years: decades (0 unknown).
-const response = await fetch(new URL('./{asset}', import.meta.url));
+const requestedZone = globalThis.location ? new URL(globalThis.location.href).searchParams.get('zone') : null;
+const shard = ['rennrat', 'herytstory'].includes(requestedZone) ? `.${{requestedZone}}` : '';
+const assetPath = './{asset}'.replace('.bin.gz', `${{shard}}.bin.gz`);
+const response = await fetch(new URL(assetPath, import.meta.url));
 if (!response.ok) throw new Error(`Building data request failed: ${{response.status}}`);
 // Servers that send .gz files as Content-Encoding: gzip hand over bytes the browser has already inflated
 const body = new Uint8Array(await response.arrayBuffer());

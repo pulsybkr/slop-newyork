@@ -1440,3 +1440,23 @@ body.touch-enabled .pop-item { min-height: 44px; }
     transition-duration: 0.01ms !important;
   }
 }
+:root { --studio-paper: #f0ece2; }
+.studio-start { width: min(560px, 90vw); text-align: left; }
+.studio-start .loader-title { margin: 18px 0 8px; }
+.studio-start p { margin: 0 0 24px; opacity: .7; }
+.studio-start a { display: block; padding: 18px 20px; margin: 10px 0; border: 1px solid #ffffff35; border-radius: 8px; color: inherit; text-decoration: none; background: #ffffff0a; }
+.studio-start a:hover, .studio-start a:focus-visible { background: #ffffff20; border-color: #e3c37c; }
+.studio-start a strong, .studio-start a span { display: block; }
+.studio-start a span { margin-top: 6px; font-size: 12px; line-height: 1.5; opacity: .7; }
+.studio-start small { display: block; margin-top: 22px; line-height: 1.6; opacity: .65; }
+.studio-panel { position: fixed; top: 100px; left: 18px; width: 290px; max-height: calc(100dvh - 240px); overflow-y: auto; z-index: 20; color: #f0ece2; background: #192b2beb; border: 1px solid #ffffff30; border-radius: 9px; pointer-events: auto; box-shadow: 0 8px 30px #0003; font: 12px Inter, sans-serif; }
+.studio-panel summary { cursor: pointer; padding: 14px 16px; font-size: 14px; font-weight: 600; }
+.studio-controls { padding: 0 16px 16px; display: grid; gap: 12px; }
+.studio-controls label { display: grid; gap: 6px; }
+.studio-controls select, .studio-controls button { width: 100%; font: inherit; border: 1px solid #ffffff30; border-radius: 4px; padding: 9px 10px; color: #f0ece2; background: #263d3e; }
+.studio-controls button { cursor: pointer; background: #d7c491; color: #182a2a; font-weight: 600; }
+.studio-controls .studio-check { display: flex; align-items: center; line-height: 1.5; }
+.studio-controls p { margin: 0; line-height: 1.55; color: #c1ccca; }
+.studio-controls a { color: #e5c991; }
+.studio-budget { font-size: 10px; }
+@media (max-width: 700px) { .studio-panel { top: 85px; left: 8px; width: 235px; max-height: 48dvh; } }

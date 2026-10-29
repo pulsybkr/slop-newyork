@@ -1,0 +1,295 @@
+{
+  "channel_id": 32,
+  "channel_name": "Rennrat",
+  "total_analyzed_videos": 50,
+  "master_sets": [
+    {
+      "category": "Autre décor spécifique",
+      "occurrences": 62,
+      "percentage": 43.4,
+      "examples": [
+        "Aire de repos et alignement de cocons",
+        "Salle d'apprentissage de l'académie",
+        "Arche végétale de cérémonie",
+        "Memory Exchange Counter & Vault",
+        "Champ de bataille médiéval"
+      ],
+      "sample_description": "Bright sterile research space with a pale yellow wall, large flat computer display showing blue desktop screen, and clean office desk trim."
+    },
+    {
+      "category": "Rue / Extérieur résidentiel & urbain",
+      "occurrences": 25,
+      "percentage": 17.5,
+      "examples": [
+        "Ponton et plan d'eau récréatif",
+        "Parvis herbeux et porte fortifiée du château",
+        "Trottoir urbain arboré",
+        "Cour extérieure de la forteresse",
+        "Galerie d'entraînement et colonnade du château"
+      ],
+      "sample_description": "Voie de circulation bitumée grise bordée d'un muret horizontal marron brique sous un grand ciel bleu azur parsemé de nuages blancs vaporeux où circulent bicyclettes et planches de skateboard."
+    },
+    {
+      "category": "Chambre / Espace intime",
+      "occurrences": 16,
+      "percentage": 11.2,
+      "examples": [
+        "Chambre de maternité et lit médicalisé",
+        "Chambre à coucher et espace lit",
+        "Penderie et dressing de la chambre",
+        "Chambre à coucher avec chevet et porte battante",
+        "Chambre et espace bureau gaming"
+      ],
+      "sample_description": "Minimalist domestic room with solid light blue or dark grey wall backdrop, a wooden desk holding a black computer keyboard, mouse, and a large monitor displaying blue screens."
+    },
+    {
+      "category": "Salon / Cuisine / Appartement familial",
+      "occurrences": 14,
+      "percentage": 9.8,
+      "examples": [
+        "Salon et coin divertissement console",
+        "Coin salon domestique épuré",
+        "Couloir et vestibule domestique de la maison",
+        "Coin séjour festif au pied du sapin de Noël",
+        "Salon de repos et coin lecture"
+      ],
+      "sample_description": "Coin bureau et salon de la maison avec une table de travail en bois clair où l'enfant s'assoit pour écrire et jouer sur tablette, adossé à un mur bleu lavande uni, éclairé par une lampe d'appoint créant un cône de concentration intime."
+    },
+    {
+      "category": "Lycée / École (Classe, Couloirs, Casiers)",
+      "occurrences": 9,
+      "percentage": 6.3,
+      "examples": [
+        "City Street & School Bus Route",
+        "Parvis extérieur et façade du bâtiment scolaire",
+        "Cour et intérieur scolaire",
+        "Espace de consultation informatique et bureau familial",
+        "Salle de classe et entrée de l'école"
+      ],
+      "sample_description": "Salle de classe avec grand tableau noir sur châssis en bois où sont tracés des schémas techniques à la craie blanche, murs vert menthe pastel."
+    },
+    {
+      "category": "Lieux publics / Commerces / Réceptions",
+      "occurrences": 9,
+      "percentage": 6.3,
+      "examples": [
+        "Plancher intérieur et socle du piège",
+        "Rivage côtier et zone d'accostage",
+        "Stalle de maternité et couveuse",
+        "Bureau d'étude et de réception privé",
+        "Plaine herbeuse et crête de combat"
+      ],
+      "sample_description": "Espace de restauration praticable composé d'une banquette et table d'angle en bois verni. Murs rouge brique en aplat, table garnie de grands menus cartonnés ouverts et de dossiers d'assise confortables, éclairés par des suspensions lumineuses chaudes créant une ambiance de brasserie décontractée."
+    },
+    {
+      "category": "Hôpital / Soins / Ambulance",
+      "occurrences": 5,
+      "percentage": 3.5,
+      "examples": [
+        "Cabinet de consultation médicale",
+        "Paillasse et salle d'expérimentation",
+        "Poste de pesée et de soin technique",
+        "Laboratoire médical et IRM de Stanford",
+        "Module d'incubation du laboratoire"
+      ],
+      "sample_description": "Espace intérieur praticable à hauteur d'homme comprenant un grand bureau de consultation en bois laqué bordeaux sombre au premier plan, des chaises de consultation à dossier marron ergonomique pour les patients, un mur de fond uni vert d'eau pastel et un éclairage zénithal doux et neutre de clinique."
+    },
+    {
+      "category": "Véhicule / Habitacle",
+      "occurrences": 2,
+      "percentage": 1.4,
+      "examples": [
+        "Cockpit de la capsule spatiale",
+        "Cockpit du module spatial Apollo"
+      ],
+      "sample_description": "Habitacle de pilotage pressurisé et confiné. Sol technique gris acier, paroi courbe délimitant l'espace avec un large hublot circulaire offrant une vue dégagée sur l'espace noir ponctué d'étoiles simplifiées. Console de commande centrale horizontale dotée de cadrans circulaires schématiques, commutateurs et leviers épurés. Ambiance lumineuse feutrée avec rétroéclairage doux des instruments."
+    },
+    {
+      "category": "Commissariat / Prison / Justice",
+      "occurrences": 1,
+      "percentage": 0.7,
+      "examples": [
+        "Cellule de détention individuelle"
+      ],
+      "sample_description": "Espace carcéral clos au sol en béton gris perle parfaitement lisse. Le mobilier utilisable se limite à un banc rectangulaire en bois ou métal gris foncé fixé au pied d'une cloison unie, et à l'encadrement d'une porte d'accès aux montants sombres. Cloisons murales grises dépouillées éclairées par une lumière diffuse et froide venue du plafond."
+    }
+  ],
+  "protagonists_sample": [
+    {
+      "name": "Blue Gamer young person (Protagonist)",
+      "gender": "male",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin tone",
+      "description": "Appears centered at 00:00 and throughout. Blocky rectangular paper-bag style head with beige paper tone, simple black dot eyes with thick expressive brows, bald with minimal tuft lines. Wears a plain sky-blue long-sleeve bodysuit or pajama top, often shown wearing large over-ear black gaming headphones with a boom microphone at a computer desk.",
+      "proposed_adaptation": "Young adult male, Caucasian with fair skin tone and light freckles. Short tousled light-brown hair parted casually on the side, hazel eyes. Wears a light sky-blue cotton crewneck sweatshirt over dark navy denim jeans, with modern matte-black over-ear gaming headphones featuring an integrated flexible boom mic resting around his neck or on his ears.",
+      "video_id": "4P_t0yz892g"
+    },
+    {
+      "name": "Philo Farnsworth (Le Jeune Inventeur)",
+      "gender": "male",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, light fair skin tone",
+      "description": "Tête cubique beige clair avec traits faciaux minimaux noirs. Casquette de baseball vert clair à visière tournée vers l'avant ou le côté portant l'inscription manuscrite 'Rennrat 78'. T-shirt ou combinaison intégrale vert pomme à manches longues et pantalon assorti vert uni. Bottes de travail vertes. Dans les premières scènes, il tient un râteau/charrue agricole à manche en bois brut et dents métalliques grises.",
+      "proposed_adaptation": "Jeune homme caucasien d'une vingtaine d'années au teint clair, cheveux châtain clair coupés court sur les côtés avec mèches texturées sous une casquette snapback kaki/vert olive contemporaine usée. Yeux marron clair noisette. Morphologie athlétique et élancée. Porte un t-shirt technique à manches longues vert sauge délavé avec renforts aux avant-bras, pantalon cargo de travail moderne gris anthracite renforcé aux genoux, bottes utilitaires robustes en cuir huilé marron, et conserve son outil de labour ou râteau de chantier agricole moderne en métal brossé et bois à manche ergonomique.",
+      "video_id": "7Y4JKB72K-I"
+    },
+    {
+      "name": "Le Père (Dad)",
+      "gender": "male",
+      "approximate_age": "late 30s to early 40s",
+      "ethnicity": "Caucasian, fair skin tone",
+      "description": "Apparaît initialement au centre face au bureau puis à gauche en interaction avec son fils ou le médecin. Morphologie carrée simplifiée coiffée d'une boîte en carton beige kraft sur la tête avec de simples fentes noires pour les yeux et des sourcils mobiles expressifs. Porte un pull à col rond et manches longues vert forêt/vert olive foncé uni.",
+      "proposed_adaptation": "Homme adulte d'environ 40 ans de type caucasien au teint clair. Cheveux châtains courts coupés net avec une légère raie sur le côté. Yeux marron foncé expressifs aux arcades sourcilières mobiles reflétant le doute puis le soulagement. Vêtu d'un pull ajusté en maille ras-du-cou vert olive foncé sur un t-shirt blanc visible au col, et d'une montre sobre à bracelet en cuir marron au poignet.",
+      "video_id": "uLb3KVZS0mQ"
+    },
+    {
+      "name": "Lucas (Le Fils)",
+      "gender": "male",
+      "approximate_age": "around 10 to 12 years old",
+      "ethnicity": "Caucasian, fair skin tone",
+      "description": "Apparaît à gauche assis sur la chaise de consultation (0:01) puis au centre manipulant une tablette numérique. Tête cubique en carton beige kraft, yeux noirs arqués très expressifs. Vêtu d'une combinaison/sweatshirt à manches longues vert menthe clair pastel uni. Tient et manipule continuellement une tablette tactile rectangulaire noire.",
+      "proposed_adaptation": "jeune personne de type caucasien au teint clair. Cheveux châtains ébouriffés en mèches douces tombant légèrement sur le front. Grands yeux expressifs marron clair vifs et concentrés. Porte un hoodie décontracté à capuche vert menthe clair pastel avec manches légèrement remontées sur les avant-bras, un jean brut sombre et conserve sa tablette tactile rectangulaire noire comme accessoire central indispensable.",
+      "video_id": "uLb3KVZS0mQ"
+    },
+    {
+      "name": "La Mère",
+      "gender": "female",
+      "approximate_age": "mid-30s",
+      "ethnicity": "Caucasian, light fair skin",
+      "description": "Apparence canonique : tête cubique stylisée avec visage géométrique simplifié, cheveux bruns raides coupés au carré court avec raie au milieu et petite mèche dressée au sommet, yeux noirs pleins en forme d'amande sans pupille visible, carnation claire. Elle porte une combinaison intégrale à manches longues d'une seule pièce de couleur lavande / violet clair uni.",
+      "proposed_adaptation": "Femme adulte d'environ 35 ans d'origine caucasienne à la peau claire, proportions réalistes d'adulte pour sitcom animée 2D. Cheveux bruns mi-longs soignés attachés en un demi-chignon décontracté avec quelques mèches encadrant le visage, yeux marron noisette expressifs. Elle porte un pull en maille fine couleur lavande à col montant, un pantalon confortable assorti violet doux, et tient un smartphone contemporain à coque sombre nécessaire à l'interaction.",
+      "video_id": "GwTeIuBlEDo"
+    },
+    {
+      "name": "Le Fils",
+      "gender": "male",
+      "approximate_age": "8-10 years old",
+      "ethnicity": "Caucasian, light fair skin",
+      "description": "Apparence canonique : tête cubique beige clair sans cheveux visibles (chauve / tête lisse), petits yeux noirs ovales expressifs et sourcils arqués, silhouette compacte et stylisée. Il est vêtu d'une combinaison une-pièce intégrale à manches longues de couleur ocre / jaune moutarde uni.",
+      "proposed_adaptation": "jeune personne d'origine caucasienne au teint clair, proportions corporelles réalistes d'jeune personne adaptées au style sitcom 2D. Cheveux courts châtain clair décoiffés avec une petite frange naturelle, grands yeux noisette curieux et expressifs. Il porte un sweat à manches longues ocre / jaune moutarde avec un jean bleu simple, et garde en main les briques de jeu colorées indispensables pour empiler et compter les heures.",
+      "video_id": "GwTeIuBlEDo"
+    },
+    {
+      "name": "L'étudiant au masque cartonné",
+      "gender": "male",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin tone",
+      "description": "Personnage stylisé placé au centre, reconnaissable à sa tête cubique cartonnée beige avec deux petites mèches noires courbées au sommet. Yeux noirs ronds et expressifs dessinés au trait, bouche fine et souriante. Silhouette mince et élancée vêtue d'une combinaison pyjama intégrale bleu ciel uni à manches longues et jambes complètes sans chaussures.",
+      "proposed_adaptation": "Jeune homme caucasien d'une vingtaine d'années au teint clair naturel. Cheveux châtain clair courts et légèrement ébouriffés avec une petite mèche souple sur le front. Grands yeux marron noisette expressifs. Silhouette longiligne portant un ensemble d'intérieur minimaliste composé d'un t-shirt en coton bleu ciel doux à manches longues et d'un pantalon de détente coordonné, complété par un bracelet connecté d'activité noir à cadran rectangulaire au poignet gauche comme accessoire fonctionnel essentiel.",
+      "video_id": "DA7dTsE4itg"
+    },
+    {
+      "name": "L'jeune personne (young person)",
+      "gender": "male",
+      "approximate_age": "early 20s",
+      "ethnicity": "Caucasian, fair skin tone",
+      "description": "Personnage stylisé avec une tête cubique rigide beige couleur carton, deux brins noirs fins en guise de cheveux sur le dessus, de grands yeux noirs en points ronds expressifs avec sourcils fins. Corps fin et longiligne vêtu d'une combinaison intégrale moulante bleu vif unie couvrant les bras, les jambes et les mains.",
+      "proposed_adaptation": "Jeune homme caucasien au teint clair (fair skin), âgé d'environ 20 ans, morphologie svelte et légèrement voûtée d'jeune personne gamer. Cheveux châtains courts ébouriffés en mèches désordonnées, yeux marron noisette expressifs. Porte un sweat à capuche bleu cobalt fonctionnel à manches retroussées sur les avant-bras, un jean slim gris ardoise, des baskets montantes blanches à lacets, et un casque audio circum-aural noir posé autour du cou.",
+      "video_id": "27l5_JjZEWg"
+    },
+    {
+      "name": "La Mère (Mom / Parent)",
+      "gender": "female",
+      "approximate_age": "40s",
+      "ethnicity": "Caucasian, warm light skin tone",
+      "description": "Femme stylisée avec une tête cubique beige clair, une coupe au carré droite couleur châtain moyen/marron foncé avec frange nette, deux antennes/mèches fines noires dressées sur le crâne, et des yeux en fentes expressives ou grands yeux noirs selon les émotions. Elle porte un haut à manches longues rose bonbon uni et un pantalon rose assorti.",
+      "proposed_adaptation": "Femme adulte caucasienne au teint chaud et clair (warm light skin), dans la quarantaine, silhouette mature et élancée. Coupe au carré mi-longue droite châtain foncé bien nette encadrant le visage, yeux vert noisette soulignés d'un trait d'eyeliner fin, rides d'expression légères autour de la bouche. Porte un pull col roulé en maille rose framboise, un pantalon droit confortable en toile taupe, des chaussures plates bordeaux, et une montre fine argentée au poignet gauche.",
+      "video_id": "27l5_JjZEWg"
+    },
+    {
+      "name": "Eli",
+      "gender": null,
+      "approximate_age": null,
+      "ethnicity": null,
+      "description": "Personnage à tête cubique géométrique sans cheveux (crâne nu beige carton lisse), yeux ovales noirs expressifs et sourcils noirs incurvés, bouche en ligne fine noire. Morphologie élancée et souple. Il porte une combinaison une pièce intégrale à manches longues et jambes complètes de couleur bleu ciel pastel uni, portée sans chaussures distinctes. À 00:26, il ajoute sur sa tête une casquette de travail noire à visière plate. Dans les scènes partagées : à 00:08, il est positionné à gauche la tête courbée face à Marcus situé à droite ; à 00:10, il est au premier plan à gauche observant le groupe d'élèves à droite ; à 00:15, il est adossé au centre sur un vélo rouge face à deux élèves assis au premier plan à gauche et à droite ; à 00:32, il se tient en arrière-plan au centre en position haute surplombant Marcus.",
+      "proposed_adaptation": "Blocs de cheveux géométriques moulés en plastique lisse bleu cyan électrique brillant, yeux carrés noirs laqués avec reflet blanc stylisé. Accessoire : casquette cubique rigide jaune fluo à visière droite clipsée sur le sommet de la tête. Tenue : combinaison modulaire en blocs de plastique bleu ciel verni ultra-vibrant, torse rectangulaire lisse, mains en pinces cylindriques jaune acidulé et baskets bloc blanches et cyan.",
+      "video_id": "7AilYd6Qrjg"
+    }
+  ],
+  "secondary_archetypes": [
+    [
+      "La Mère",
+      7
+    ],
+    [
+      "Le Père",
+      5
+    ],
+    [
+      "Figurants",
+      2
+    ],
+    [
+      "Father / Orange Figure",
+      1
+    ],
+    [
+      "Mother / Purple Figure",
+      1
+    ],
+    [
+      "Online Red Gaming Friend",
+      1
+    ],
+    [
+      "Blue-Suit Gaming Buddy",
+      1
+    ],
+    [
+      "Researcher Lady (Pew)",
+      1
+    ],
+    [
+      "Blonde Online Co-op Friend",
+      1
+    ],
+    [
+      "Audience / Surveyed Teens",
+      1
+    ]
+  ],
+  "dominant_camera_moods": [
+    [
+      "Satirical adult sitcom composition, direct eye-level framing, dynamic split-screen cuts, and expressive close-ups",
+      1
+    ],
+    [
+      "Caméra cinématique portée d'action contemporaine, focales réalistes 35mm et 50mm, profondeur de champ dynamique soignée (bokeh réaliste)",
+      1
+    ],
+    [
+      "Cadrages frontaux et mi-corps typiques de sitcom de dialogue, plans d'insert serrés sur les supports de consultation et écrans tactiles",
+      1
+    ],
+    [
+      "Cadrages frontaux et plans rapprochés intimistes, ambiance chaleureuse et réflexive axée sur la complicité familiale",
+      1
+    ],
+    [
+      "Cadrages frontaux et latéraux stables à hauteur d'homme, ambiance bienveillante, didactique et aérée.",
+      1
+    ]
+  ],
+  "dominant_lightings": [
+    [
+      "Even flat ambient lighting with subtle clean cel-shading under chins and collars, no complex soft gradients",
+      1
+    ],
+    [
+      "Éclairage cinématique naturel et contrasté en Unreal Engine 5 avec Lumen, lumière solaire rasante en extérieur et néons/projecteurs doux et directionnels en intérieur",
+      1
+    ],
+    [
+      "Éclairage plat et diffus d'intérieur de cabinet médical et de salon domestique, contrasté ponctuellement par la lueur bleutée d'écrans de tablettes numériques",
+      1
+    ],
+    [
+      "Éclairage plat de studio 2D avec légères ombres portées unies et nettes",
+      1
+    ],
+    [
+      "Éclairage plat et uniforme sans ombres portées lourdes, assurant une clarté visuelle totale des formes et aplats de couleur.",
+      1
+    ]
+  ]
+}

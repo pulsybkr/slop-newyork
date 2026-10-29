@@ -1489,7 +1489,7 @@ function buildWaterfrontPiers(group) {
   B.build(group, new Set([BL, PA]));
 }
 
-function buildCityGrid(scene) {
+function buildCityGrid(scene, reservedBlockIds = []) {
   streetGroundSurfaces = [];
   const group = new THREE.Group();
   group.name = 'ManhattanCityGrid';
@@ -2209,7 +2209,7 @@ function buildCityGrid(scene) {
   // The squares on their real blocks (curb islands tagged by NYC Parks): Madison Square Park (23rd-26th St, 5th to
   // Madison Ave) facing the Flatiron, Union Square (14th-17th St), Washington Square Park at the foot of 5th Ave and
   // Tompkins Square Park (Ave A-B, 7th-10th St)
-  const parkBlock = (name) => BLOCKS.filter((b) => b.parkName === name && !b.median).sort((a, b) => b.area - a.area)[0];
+  const parkBlock = (name) => BLOCKS.filter((b) => b.parkName === name && !b.median && !reservedBlockIds.includes(b.id)).sort((a, b) => b.area - a.area)[0];
   const parkRect = (name, extra) => {
     const b = parkBlock(name);
     return b ? { x: (b.minX + b.maxX) * 0.5, z: (b.minZ + b.maxZ) * 0.5, w: b.maxX - b.minX, d: b.maxZ - b.minZ, block: b, ...extra } : null;
@@ -2301,7 +2301,7 @@ function buildCityGrid(scene) {
   //      Battery...): its curb island paved like a park walk, a granite-coped lawn inset from it under scattered trees
   //      (big planes along the walk), lampposts on the perimeter
   const SPECIAL_PARKS = new Set(['Central Park', 'Madison Square Park', 'Union Square Park', 'Washington Square Park', 'Tompkins Square Park', 'Bryant Park']);
-  const genericParks = BLOCKS.filter((b) => b.park > 0.6 && !b.median && !SPECIAL_PARKS.has(b.parkName) && b.area > 250);
+  const genericParks = BLOCKS.filter((b) => b.park > 0.6 && !b.median && !SPECIAL_PARKS.has(b.parkName) && b.area > 250 && !reservedBlockIds.includes(b.id));
   for (const b of genericParks) {
     const slab = offsetPolygonInward(b.poly, 0.1) || b.poly;
     group.add(createExtrudedPolygonMesh(b.poly, 0.0, PARK_Y - 0.04, curbMat, true, false));

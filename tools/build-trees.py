@@ -109,7 +109,10 @@ def module(count, asset, digest):
 // NYC Parks Forestry Tree Points: {SOURCE}
 // Snapshot SHA-256: {digest}
 // {count:,} unique living tree locations, quantized to 0.5 m.
-const response = await fetch(new URL('./{asset}', import.meta.url));
+const requestedZone = globalThis.location ? new URL(globalThis.location.href).searchParams.get('zone') : null;
+const shard = ['rennrat', 'herytstory'].includes(requestedZone) ? `.${{requestedZone}}` : '';
+const assetPath = './{asset}'.replace('.bin.gz', `${{shard}}.bin.gz`);
+const response = await fetch(new URL(assetPath, import.meta.url));
 if (!response.ok) throw new Error(`Tree data request failed: ${{response.status}}`);
 // Servers that send .gz files as Content-Encoding: gzip hand over bytes the browser has already inflated
 const body = new Uint8Array(await response.arrayBuffer());

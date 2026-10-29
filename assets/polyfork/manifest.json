@@ -1,0 +1,305 @@
+{
+  "licence": "https://polyfork.dev/licensing",
+  "assets": [
+    {
+      "id": "wool-rug-ab2bd1",
+      "source": "https://polyfork.dev/cdn/wool-rug-ab2bd1.mjs",
+      "page": "https://polyfork.dev/asset/wool-rug-ab2bd1",
+      "sha256": "aa0733689c92450e5625518ec07bb2e04bc87dde8caaaeab7b4570e00ee34ba3"
+    },
+    {
+      "id": "sideboard-dd343b",
+      "source": "https://polyfork.dev/cdn/sideboard-dd343b.mjs",
+      "page": "https://polyfork.dev/asset/sideboard-dd343b",
+      "sha256": "0b82107350c5a292b54261e3fc7da6d7035421dca21221d727fc54205a523583"
+    },
+    {
+      "id": "table-lamp-e25998",
+      "source": "https://polyfork.dev/cdn/table-lamp-e25998.mjs",
+      "page": "https://polyfork.dev/asset/table-lamp-e25998",
+      "sha256": "db75028699c6ea81a87001bec1fd5611d651d85de3da1033830a02a3b603bd02"
+    },
+    {
+      "id": "shower-enclosure-a50c16",
+      "source": "https://polyfork.dev/cdn/shower-enclosure-a50c16.mjs",
+      "page": "https://polyfork.dev/asset/shower-enclosure-a50c16",
+      "sha256": "c62eaa3a1347bc80acc433b5983aad779cadc84d022240d5e58c62cae69270d5"
+    },
+    {
+      "id": "low-media-unit-645e61",
+      "source": "https://polyfork.dev/cdn/low-media-unit-645e61.mjs",
+      "page": "https://polyfork.dev/asset/low-media-unit-645e61",
+      "sha256": "16db09c85a0fc6bd876e67e828a06c9494442d753eca7ba96a12bda6ee9c1b7c"
+    },
+    {
+      "id": "office-desk-021eb3",
+      "source": "https://polyfork.dev/cdn/office-desk-021eb3.mjs",
+      "page": "https://polyfork.dev/asset/office-desk-021eb3",
+      "sha256": "16868db254b62283e41cd1891cbfe528fb208d9693f4d8514f8a9e06c2d6f6f3"
+    },
+    {
+      "id": "kitchen-island-47f4c8",
+      "source": "https://polyfork.dev/cdn/kitchen-island-47f4c8.mjs",
+      "page": "https://polyfork.dev/asset/kitchen-island-47f4c8",
+      "sha256": "5f52179f94a588b688a97ba1ab0d8d26208cb4ebc640b1008111397e3a0d6050"
+    },
+    {
+      "id": "fridge-freezer-fb9b5a",
+      "source": "https://polyfork.dev/cdn/fridge-freezer-fb9b5a.mjs",
+      "page": "https://polyfork.dev/asset/fridge-freezer-fb9b5a",
+      "sha256": "6dc62f0a68aa36e65a7813cf79bdc457fe5b734d95ba6ae56c74c8509ecfbf8f"
+    },
+    {
+      "id": "dining-chair-530532",
+      "source": "https://polyfork.dev/cdn/dining-chair-530532.mjs",
+      "page": "https://polyfork.dev/asset/dining-chair-530532",
+      "sha256": "1b50e884f336a163eb997ee065f3210b782a9e63a3c6c0f26e090168daf30883"
+    },
+    {
+      "id": "floor-houseplant-8fad17",
+      "source": "https://polyfork.dev/cdn/floor-houseplant-8fad17.mjs",
+      "page": "https://polyfork.dev/asset/floor-houseplant-8fad17",
+      "sha256": "9c8c859487204af2916b08b51055adf36a236b843e35d9578aebc55459ef9416"
+    },
+    {
+      "id": "flat-screen-television-97b1f3",
+      "source": "https://polyfork.dev/cdn/flat-screen-television-97b1f3.mjs",
+      "page": "https://polyfork.dev/asset/flat-screen-television-97b1f3",
+      "sha256": "28256a36e646c138a4991822fafffcf0af62e6ebe81fd5d92417ac0d0b5a8f3c"
+    },
+    {
+      "id": "framed-wall-art-d2c8a2",
+      "source": "https://polyfork.dev/cdn/framed-wall-art-d2c8a2.mjs",
+      "page": "https://polyfork.dev/asset/framed-wall-art-d2c8a2",
+      "sha256": "534fbd373efe9c5937975db3b51d41daa8a04402689a98f43f72d26cc6f8ad1d"
+    },
+    {
+      "id": "curtain-panel-ee2ed9",
+      "source": "https://polyfork.dev/cdn/curtain-panel-ee2ed9.mjs",
+      "page": "https://polyfork.dev/asset/curtain-panel-ee2ed9",
+      "sha256": "73eaec7ed5bf5f54764a9905b2e79f92901af99f6d06b7b0fc1a6eddc6ee238a"
+    },
+    {
+      "id": "bar-stool-0de3c8",
+      "source": "https://polyfork.dev/cdn/bar-stool-0de3c8.mjs",
+      "page": "https://polyfork.dev/asset/bar-stool-0de3c8",
+      "sha256": "34bb35e5fc59abae0ebaad8eb786fb951224bfab3d717eb89501724e3fb1b403"
+    },
+    {
+      "id": "yellow-school-bus-0fd3b6",
+      "source": "https://polyfork.dev/cdn/yellow-school-bus-0fd3b6.mjs",
+      "page": "https://polyfork.dev/asset/yellow-school-bus-0fd3b6",
+      "sha256": "5b5c0ec2cb5b84a4e6c3f0a63491c358d4e57be856030c3b799c86e0be7dac35"
+    },
+    {
+      "id": "police-cruiser-a2d25e",
+      "source": "https://polyfork.dev/cdn/police-cruiser-a2d25e.mjs",
+      "page": "https://polyfork.dev/asset/police-cruiser-a2d25e",
+      "sha256": "14d0a919a596e2160d0c3662f14ebd6911ecb7edf310c4a1f5b3720535ee1e56"
+    },
+    {
+      "id": "ambulance-van-29919a",
+      "source": "https://polyfork.dev/cdn/ambulance-van-29919a.mjs",
+      "page": "https://polyfork.dev/asset/ambulance-van-29919a",
+      "sha256": "8ccb9676930707779cae4c37e515486caa7115fe1541568b3d8067614d28dfaa"
+    },
+    {
+      "id": "yard-basketball-post-b71ee3",
+      "source": "https://polyfork.dev/cdn/yard-basketball-post-b71ee3.mjs",
+      "page": "https://polyfork.dev/asset/yard-basketball-post-b71ee3",
+      "sha256": "8bda94bae4279d8dcd18092ac63a71cc8d3c5c6f5d239205e46342bcb4ed23d3"
+    },
+    {
+      "id": "wall-clock-0c555c",
+      "source": "https://polyfork.dev/cdn/wall-clock-0c555c.mjs",
+      "page": "https://polyfork.dev/asset/wall-clock-0c555c",
+      "sha256": "644586658f0ed558eb1c52491b002c114eca3fa897e69953ea4e853c4af78151"
+    },
+    {
+      "id": "fire-extinguisher-74d502",
+      "source": "https://polyfork.dev/cdn/fire-extinguisher-74d502.mjs",
+      "page": "https://polyfork.dev/asset/fire-extinguisher-74d502",
+      "sha256": "398e8cf1811e21f2faf243426b24e5411914200336648161798bfcb90bdd4dae"
+    },
+    {
+      "id": "picnic-table-4ee33a",
+      "source": "https://polyfork.dev/cdn/picnic-table-4ee33a.mjs",
+      "page": "https://polyfork.dev/asset/picnic-table-4ee33a",
+      "sha256": "72a7c7dc892ef2c0a8dfb763acd75395f93e74aab3100421958493b69dfbd58a"
+    },
+    {
+      "id": "bike-rack-a1e7c3",
+      "source": "https://polyfork.dev/cdn/bike-rack-a1e7c3.mjs",
+      "page": "https://polyfork.dev/asset/bike-rack-a1e7c3",
+      "sha256": "24cf65c0765e563db114a55fb71d90650ecdd5d72e504f1acbb672851a9cec9a"
+    },
+    {
+      "id": "exercise-book-stack-266d9d",
+      "source": "https://polyfork.dev/cdn/exercise-book-stack-266d9d.mjs",
+      "page": "https://polyfork.dev/asset/exercise-book-stack-266d9d",
+      "sha256": "03322f982499765f3db495ebdb2dab37fc75d145175d8ad82dffe580b450c041"
+    },
+    {
+      "id": "classroom-globe-16a96e",
+      "source": "https://polyfork.dev/cdn/classroom-globe-16a96e.mjs",
+      "page": "https://polyfork.dev/asset/classroom-globe-16a96e",
+      "sha256": "bb4344158fa21e86ce87d768a69ee98bd810c2720ce7333678e7029e4b32de0d"
+    },
+    {
+      "id": "filing-cabinet-f8a251",
+      "source": "https://polyfork.dev/cdn/filing-cabinet-f8a251.mjs",
+      "page": "https://polyfork.dev/asset/filing-cabinet-f8a251",
+      "sha256": "460cf0326ad087130cec011dc54182ed6958d6f0a39abc593b90f52a9900751f"
+    },
+    {
+      "id": "sofa-9c0e7e",
+      "source": "https://polyfork.dev/cdn/sofa-9c0e7e.mjs",
+      "page": "https://polyfork.dev/asset/sofa-9c0e7e",
+      "sha256": "4e6a2778d7ac383ead89d6d94a20afdc100fe5752e0b5595c1b83efce0374973"
+    },
+    {
+      "id": "bed-6e10e8",
+      "source": "https://polyfork.dev/cdn/bed-6e10e8.mjs",
+      "page": "https://polyfork.dev/asset/bed-6e10e8",
+      "sha256": "67c38b5181e503f2a447c33ee14c7fa220a22090a52f2a75894338d0809fe997"
+    },
+    {
+      "id": "office-chair-7c9874",
+      "source": "https://polyfork.dev/cdn/office-chair-7c9874.mjs",
+      "page": "https://polyfork.dev/asset/office-chair-7c9874",
+      "sha256": "86b570f99aab31829f903e3ef0618e9ceee979f1124b0a24f8c04c3697e09342"
+    },
+    {
+      "id": "desk-monitor-32cfce",
+      "source": "https://polyfork.dev/cdn/desk-monitor-32cfce.mjs",
+      "page": "https://polyfork.dev/asset/desk-monitor-32cfce",
+      "sha256": "8d62e825df0f6db70fa59e4d36f807927b0659e3fe658f25f6ad7018c34d1eb1"
+    },
+    {
+      "id": "dining-table-7af83a",
+      "source": "https://polyfork.dev/cdn/dining-table-7af83a.mjs",
+      "page": "https://polyfork.dev/asset/dining-table-7af83a",
+      "sha256": "7c5fb635674974a4e4934ace2638c3caadcb518549399e2d1d6aef6e9b8c930a"
+    },
+    {
+      "id": "coffee-table-acc698",
+      "source": "https://polyfork.dev/cdn/coffee-table-acc698.mjs",
+      "page": "https://polyfork.dev/asset/coffee-table-acc698",
+      "sha256": "4479522fb189cbe2c684de60ba004d2172b653c4805ff49933ab3736dc5d12eb"
+    },
+    {
+      "id": "wardrobe-f3b2f2",
+      "source": "https://polyfork.dev/cdn/wardrobe-f3b2f2.mjs",
+      "page": "https://polyfork.dev/asset/wardrobe-f3b2f2",
+      "sha256": "fed92cd8dc67230d6e02fb910dd5329a25f4f7e8656a4ce418641e79028ca8c4"
+    },
+    {
+      "id": "base-cabinet-run-71d050",
+      "source": "https://polyfork.dev/cdn/base-cabinet-run-71d050.mjs",
+      "page": "https://polyfork.dev/asset/base-cabinet-run-71d050",
+      "sha256": "577ca34c9815f07794d16fef1d8cb2751731f4e8329c01ba71df8a7fb8ef48f9"
+    },
+    {
+      "id": "vanity-basin-unit-3becd9",
+      "source": "https://polyfork.dev/cdn/vanity-basin-unit-3becd9.mjs",
+      "page": "https://polyfork.dev/asset/vanity-basin-unit-3becd9",
+      "sha256": "eda525f13d20c84a9e4c9dee038b9a992559fd44ae2cfc38b3c43b053b98ecaa"
+    },
+    {
+      "id": "toilet-2edbd9",
+      "source": "https://polyfork.dev/cdn/toilet-2edbd9.mjs",
+      "page": "https://polyfork.dev/asset/toilet-2edbd9",
+      "sha256": "b98f20cfd35fa01f0193d36f467394bedb0512f8fa18c943a3d8ebd8647abd45"
+    },
+    {
+      "id": "pupil-table-1eebd1",
+      "source": "https://polyfork.dev/cdn/pupil-table-1eebd1.mjs",
+      "page": "https://polyfork.dev/asset/pupil-table-1eebd1",
+      "sha256": "5b57097ff802072000aa372eb48f4bf8353befb813d8b90e7d117d44f183cb8a"
+    },
+    {
+      "id": "stacking-pupil-chair-738aac",
+      "source": "https://polyfork.dev/cdn/stacking-pupil-chair-738aac.mjs",
+      "page": "https://polyfork.dev/asset/stacking-pupil-chair-738aac",
+      "sha256": "ed3bd12e9bd20f4fbf6c5cf0f6de451c3965b818ad7c407f2e4d92e98b134314"
+    },
+    {
+      "id": "teaching-board-7ba611",
+      "source": "https://polyfork.dev/cdn/teaching-board-7ba611.mjs",
+      "page": "https://polyfork.dev/asset/teaching-board-7ba611",
+      "sha256": "60798cc42710f38403aad4b3e20ac76ce366957bb902534c95fe592a5987aaed"
+    },
+    {
+      "id": "teacher-s-desk-381eeb",
+      "source": "https://polyfork.dev/cdn/teacher-s-desk-381eeb.mjs",
+      "page": "https://polyfork.dev/asset/teacher-s-desk-381eeb",
+      "sha256": "01283362628a1ec1ccdfac606e0a22385b5822f8bcc7012d9f3632926f0d6432"
+    },
+    {
+      "id": "locker-bank-1784b8",
+      "source": "https://polyfork.dev/cdn/locker-bank-1784b8.mjs",
+      "page": "https://polyfork.dev/asset/locker-bank-1784b8",
+      "sha256": "fda2597357b4af7e9deb18a59690c395f6f0757a53fc36dafc1ee5ebddbf9c67"
+    },
+    {
+      "id": "folding-dining-table-7b68ce",
+      "source": "https://polyfork.dev/cdn/folding-dining-table-7b68ce.mjs",
+      "page": "https://polyfork.dev/asset/folding-dining-table-7b68ce",
+      "sha256": "ea95365684a2b1fb7e2b58e7f6442102cedadfea9fbee573c463913f397eb6a6"
+    },
+    {
+      "id": "servery-counter-3afbb9",
+      "source": "https://polyfork.dev/cdn/servery-counter-3afbb9.mjs",
+      "page": "https://polyfork.dev/asset/servery-counter-3afbb9",
+      "sha256": "727d9f2051a84fcb6ca27b731a7bb8f85f8f5ae57134ace4a2dac36d6a8ce58a"
+    },
+    {
+      "id": "hospital-bed-31132d",
+      "source": "https://polyfork.dev/cdn/hospital-bed-31132d.mjs",
+      "page": "https://polyfork.dev/asset/hospital-bed-31132d",
+      "sha256": "19dcad328e28eabcb02e69c8e36b44abb824d561059ac96a4d6462a82301f0d7"
+    },
+    {
+      "id": "vital-signs-monitor-632560",
+      "source": "https://polyfork.dev/cdn/vital-signs-monitor-632560.mjs",
+      "page": "https://polyfork.dev/asset/vital-signs-monitor-632560",
+      "sha256": "8f9e1e93297134a78d477eab471860048b925b0d16fd4f576d3808d52316ac39"
+    },
+    {
+      "id": "examination-couch-1ab5b9",
+      "source": "https://polyfork.dev/cdn/examination-couch-1ab5b9.mjs",
+      "page": "https://polyfork.dev/asset/examination-couch-1ab5b9",
+      "sha256": "15f75427fbe07138cc6a9bb6e3f7424eb00c6f988e29d4a44a36af222f6fdd56"
+    },
+    {
+      "id": "reception-desk-3d6913",
+      "source": "https://polyfork.dev/cdn/reception-desk-3d6913.mjs",
+      "page": "https://polyfork.dev/asset/reception-desk-3d6913",
+      "sha256": "2130d9efe6bbc845b5cf94c8e5cd2249417e42a9a4d38d35c520b6e1554fc939"
+    },
+    {
+      "id": "waiting-room-chair-5e20cc",
+      "source": "https://polyfork.dev/cdn/waiting-room-chair-5e20cc.mjs",
+      "page": "https://polyfork.dev/asset/waiting-room-chair-5e20cc",
+      "sha256": "7a08f6222adc0a472ebf0a2817b6a4e4afb5741d6507dc9ac2ebb70c095cd901"
+    },
+    {
+      "id": "park-bench-dc8b62",
+      "source": "https://polyfork.dev/cdn/park-bench-dc8b62.mjs",
+      "page": "https://polyfork.dev/asset/park-bench-dc8b62",
+      "sha256": "430df1e30f6ecbe52c3d0fdc64c36c9bae9400f2be97b3e838beff6d15c7458b"
+    },
+    {
+      "id": "bedside-table-740c6b",
+      "source": "https://polyfork.dev/cdn/bedside-table-740c6b.mjs",
+      "page": "https://polyfork.dev/asset/bedside-table-740c6b",
+      "sha256": "2340b64ac9ddc023f557538a155dfe4f59af1b02bdaa2db8d79e62d8a052a5da"
+    },
+    {
+      "id": "alcove-bookcase-83894d",
+      "source": "https://polyfork.dev/cdn/alcove-bookcase-83894d.mjs",
+      "page": "https://polyfork.dev/asset/alcove-bookcase-83894d",
+      "sha256": "0f91d08b06299d63c397ce435a83fca0304e7d1440a91ee2a7f6c0308be182f9"
+    }
+  ]
+}

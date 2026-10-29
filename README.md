@@ -2,6 +2,8 @@
 
 A New York City simulation built with [three.js](https://threejs.org/), WebGPURenderer, and TSL. Explore Manhattan on foot, by car, by bicycle, or by helicopter.
 
+This checkout includes filming neighbourhoods for projects 32 and 41. Start the app through an HTTP server and choose a working area before loading the city. See [STUDIO.md](STUDIO.md) for the locations, controls, regional loading, asset sources and current scope.
+
 [Try it live](https://mrdoob.github.io/slop-newyork/)
 
 ## Make it your own

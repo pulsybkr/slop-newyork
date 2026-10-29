@@ -34,7 +34,7 @@ test('One World Trade Center arrives on Vesey Street facing the tower', () => {
 });
 
 test('preset and map teleports share arrival resets and mark the resolved landing point', () => {
-  const main = read('js/main.js');
+  const main = read('js/city-main.js');
   const start = main.indexOf('  function teleportTo(');
   const end = main.indexOf('  const openMapBtn', start);
   const handlers = new Map();
@@ -42,6 +42,7 @@ test('preset and map teleports share arrival resets and mark the resolved landin
   const landed = { x: -305.7, z: 5210 };
   let map;
   const environment = {
+    region: null,
     TELEPORT_LOCATIONS,
     controllerManager: {
       teleportActiveTo: (...args) => { calls.push(['teleport', ...args]); return landed; }

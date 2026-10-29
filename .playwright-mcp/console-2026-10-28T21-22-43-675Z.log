@@ -1,0 +1,42 @@
+[       1ms] TypeError: Cannot read properties of undefined (reading 'updateMatrixWorld')
+    at Animation._animationLoop (http://127.0.0.1:8091/js/city-main.js:741:43)
+    at update (https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.webgpu.js:5101:10)
+[      10ms] TypeError: Cannot read properties of undefined (reading 'updateMatrixWorld')
+    at Animation._animationLoop (http://127.0.0.1:8091/js/city-main.js:741:43)
+    at update (https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.webgpu.js:5101:10)
+[      15ms] TypeError: Cannot read properties of undefined (reading 'updateMatrixWorld')
+    at Animation._animationLoop (http://127.0.0.1:8091/js/city-main.js:741:43)
+    at update (https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.webgpu.js:5101:10)
+[     877ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.webgpu.js:48562
+[    1332ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1333ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1333ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1333ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1333ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1333ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1348ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1348ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1348ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1348ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1348ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1375ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1376ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1376ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1376ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1376ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1376ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1379ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1379ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1379ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1379ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1379ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1379ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1380ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1380ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1380ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1380ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1380ms] [WARNING] THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed. @ https://cdn.jsdelivr.net/gh/mrdoob/three.js@b3396270682287470d161658ac01084d25e8dba6/build/three.core.js:2014
+[    1530ms] [INFO] [roads] avenues 11th Ave x=-1683.0 half=10.0 free=0.9km | 10th Ave x=-1408.5 half=8.5 free=1.0km @ http://127.0.0.1:8091/js/road-network.js:199
+[    1533ms] [INFO] [roads] centreline streets: 0 links not on the grid, 0 straight runs @ http://127.0.0.1:8091/js/road-network.js:432
+[    1536ms] [INFO] [roads] centreline edges: 0 with clear lanes, 0 long enough, 0 connected @ http://127.0.0.1:8091/js/road-network.js:1005
+[    9715ms] [LOG] [init] renderer 129ms, lighting 41ms, cityGrid 186ms, boroughs 2ms, landmarks 1ms, blocks 73ms, streetDetails 215ms, traffic 79ms, roadPaint 2ms, controllers 19ms, culling 18ms, ui 11ms, postFX 58ms, compile 2704ms, warmup 1701ms, firstFrame 1ms, gpu 3602ms @ http://127.0.0.1:8091/js/city-main.js:772

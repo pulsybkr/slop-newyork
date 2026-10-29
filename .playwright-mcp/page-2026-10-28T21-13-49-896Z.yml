@@ -1,0 +1,50 @@
+- generic [active] [ref=e1]:
+  - status [ref=e2]:
+    - generic [ref=e3]:
+      - generic [aria-hidden] [ref=e4]: NY
+      - generic [ref=e5]: Slop New York
+      - generic [ref=e8]: Initializing graphics...
+  - main "3D Interactive Slop New York Viewport" [ref=e9]
+  - banner:
+    - generic [ref=e10]:
+      - generic [aria-hidden] [ref=e11]: NY
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - heading "Slop New York" [level=1] [ref=e14]
+          - link "Slop New York on GitHub (opens in a new tab)" [ref=e15] [cursor=pointer]:
+            - /url: https://github.com/mrdoob/slop-newyork/
+            - text: GitHub ↗
+        - generic [ref=e16]: three.js · WebGPU · TSL · 60 fps
+  - generic [ref=e17]:
+    - group "Atmosphere & time of day" [ref=e18]:
+      - button "Golden Hour" [ref=e19] [cursor=pointer]
+      - button "Midday" [ref=e23] [cursor=pointer]
+      - button "Blue Hour" [ref=e26] [cursor=pointer]
+      - button "Night" [ref=e29] [cursor=pointer]
+    - button "Teleport the active player" [ref=e33] [cursor=pointer]
+    - button "Full New York City street map [M]" [ref=e38] [cursor=pointer]
+    - button "Mute sound" [pressed] [ref=e42] [cursor=pointer]
+    - button "Hide HUD" [ref=e45] [cursor=pointer]
+  - complementary "Live NYC Street Radar Minimap" [ref=e48] [cursor=pointer]:
+    - generic [aria-hidden]: "N"
+    - generic [ref=e50]: M
+  - contentinfo:
+    - navigation "Third-Person Navigation Mode" [ref=e51]:
+      - button "Person [1]" [ref=e52] [cursor=pointer]
+      - button "Car · Yellow Cab [2]" [ref=e55] [cursor=pointer]
+      - button "Cyclist [3]" [ref=e58] [cursor=pointer]
+      - button "Helicopter [4]" [ref=e61] [cursor=pointer]
+  - region "Vehicle telemetry and camera" [ref=e64]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - generic [ref=e67]: NYC Yellow Taxi
+        - generic [ref=e68]: Alt 0 ft
+      - generic [ref=e69]:
+        - generic [ref=e70]: "0"
+        - generic [ref=e71]: mph
+    - generic [ref=e73]:
+      - button "Previous camera" [ref=e74] [cursor=pointer]
+      - button "3rd-Person Chase V" [ref=e77] [cursor=pointer]:
+        - generic [ref=e80]: 3rd-Person Chase
+        - generic [ref=e81]: V
+      - button "Next camera" [ref=e82] [cursor=pointer]

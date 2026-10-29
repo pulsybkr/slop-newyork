@@ -23,7 +23,9 @@ const LANE_CLEAR = 1.2; // half width each lane keeps free of obstacles
 const CROSSWALK = 2.5; // depth between an intersection box and its stop lines
 const SHORE_MARGIN = 6;
 
-function buildRoadNetwork(sidewalks, obstacles, signalIntersections = []) {
+function buildRoadNetwork(sidewalks, obstacles, signalIntersections = [], bounds = null) {
+  const Z_MIN = bounds ? Math.floor(bounds.minZ) : Math.floor(ISLAND_BOUNDS.minZ) - 20;
+  const Z_MAX = bounds ? Math.ceil(bounds.maxZ) : Math.ceil(ISLAND_BOUNDS.maxZ) + 20;
   // 1. Spatial hash of ground footprints: curbs bound the roads, everything else also blocks pedestrians
   const hash = new Map();
   const cellKey = (ix, iz) => (ix + 512) * 1024 + iz + 512;
@@ -56,6 +58,7 @@ function buildRoadNetwork(sidewalks, obstacles, signalIntersections = []) {
   }
 
   function onLand(minX, maxX, minZ, maxZ) {
+    if (bounds && (minX < bounds.minX || maxX > bounds.maxX || minZ < bounds.minZ || maxZ > bounds.maxZ)) return false;
     for (const z of [minZ, maxZ]) {
       const shore = getIslandBoundsAtZ(z);
       if (minX < shore.westX + SHORE_MARGIN || maxX > shore.eastX - SHORE_MARGIN) return false;
@@ -116,7 +119,7 @@ function buildRoadNetwork(sidewalks, obstacles, signalIntersections = []) {
         : half >= 4.4 ? [-1.8, 1.8] : null);
   const avenues = [];
   for (const ave of ALL_AVENUES) {
-    if (ave.isHighway) continue;
+    if (ave.isHighway || (bounds && (ave.x < bounds.minX || ave.x > bounds.maxX))) continue;
     const segs = ave.segs || [{ z0: ave.minZ, z1: ave.maxZ, dir: ave.dir }];
     // the avenue's stretch at z (or the nearest one within an intersection's reach of its ends)
     const segAt = (z) => {
@@ -303,6 +306,7 @@ function buildRoadNetwork(sidewalks, obstacles, signalIntersections = []) {
     // Links the grid already carries: most of their length runs along an avenue (north-south) or a cross street
     const links = [];
     for (const [a, b, ni, w, lanes, dir, inner] of RG.links) {
+      if (bounds && [pos[a], pos[b]].some(p => p.x < bounds.minX || p.x > bounds.maxX || p.z < bounds.minZ || p.z > bounds.maxZ)) continue;
       const pts = [pos[a]];
       for (let k = 0; k < inner.length; k += 2) pts.push({ x: inner[k], z: inner[k + 1] });
       pts.push(pos[b]);
